@@ -1,0 +1,14 @@
+{
+    "1234": {
+        "name": "Test Name",
+        "SUN": "N",
+        "MON": "R",
+        "TUE": "E",
+        "WED": "E",
+        "THU": "M",
+        "FRI": "M",
+        "SAT": "L"
+    },
+    "lastUpdated": "24-02-2023 22:52:25",
+    "remark": "na"
+}
